@@ -1,3 +1,5 @@
+Dette repo er ikke i bruk lengre da søknadene sendes direkte fra søknad-api til vedtak
+
 tiltakspenger-mottak
 ================
 
